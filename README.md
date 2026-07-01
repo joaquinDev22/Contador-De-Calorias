@@ -1,4 +1,4 @@
-# Calculadora-de-Propinas
+# Contador de Calorias
 
 Aplicación enfocada en el bienestar personal que permite registrar tanto alimentos ingeridos como ejercicios realizados. 
 Clasifica de manera automática los registros (Comida o Ejercicio) y realiza un balance neto de calorías en tiempo real. 
